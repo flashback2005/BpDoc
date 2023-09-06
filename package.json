@@ -5,10 +5,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "yarn register:components && vitepress dev docs",
-    "build": "yarn register:components && vitepress build docs --base /vitepress-demo/",
-    "serve": "vitepress serve docs",
-    "register:components": "vitepress-rc"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
   },
   "devDependencies": {
     "@vitejs/plugin-vue-jsx": "^3.0.1",
@@ -28,3 +27,4 @@
     }
   }
 }
+

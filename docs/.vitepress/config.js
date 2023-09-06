@@ -44,12 +44,6 @@ export default defineConfig({
 
     search: {
       provider: 'local',
-      // provider: 'algolia',
-      // options: {
-      //   appId: 'X51HWTCQJJ',
-      //   apiKey: 'ca20f15eb8a667898b65d13f4213ae3d',
-      //   indexName: 'vitepress-demo'
-      // }
     },
 
     // nav
