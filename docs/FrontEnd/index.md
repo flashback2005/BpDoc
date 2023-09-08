@@ -40,7 +40,7 @@ yarn build:childMain
 
 ## 与合约交互相关
 
-### [触发方法](/FrontEnd/BpHooks/useAction/index)
+### [触发方法](/FrontEnd/BPHooks/useAction/index)
 
 - useAction
 
